@@ -1,7 +1,7 @@
 ---
 title: Ministries
 layout: default
-permalink: /services/
+permalink: /ministry/
 ---
 
 ## Full length services page
