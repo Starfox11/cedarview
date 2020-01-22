@@ -1,11 +1,8 @@
-- title: Home
+- title: This Week
   link: /
-
-- title: About
-  link: /about/
-
-- title: Services
-  link: "/services/"
-
-- title: Contact
-  link: "/contact/"
+  
+- title: Ministries
+  link: "/ministry/"
+  
+- title: Giving
+  link: "/giving/"
